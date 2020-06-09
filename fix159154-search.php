@@ -7,7 +7,7 @@
  * Author URI:      https://fixonweb.com.br
  * Text Domain:     fix159154
  * Domain Path:     /languages
- * Version:         0.1.4
+ * Version:         0.1.5
  *
  * @package         Fix159154
  */
@@ -115,7 +115,7 @@ function fix159157_parse_request( &$wp ) {
 }
 
 
-add_filter('template_include','my_custom_search_template');
+// add_filter('template_include','my_custom_search_template');
 
 function my_custom_search_template($template){
     global $wp_query;
