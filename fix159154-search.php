@@ -7,7 +7,7 @@
  * Author URI:      https://fixonweb.com.br
  * Text Domain:     fix159154
  * Domain Path:     /languages
- * Version:         0.1.1
+ * Version:         0.1.3
  *
  * @package         Fix159154
  */
